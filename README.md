@@ -37,7 +37,7 @@ Upon thorough examination of the organization's login attempt data, it has come 
 
 To address this issue, I have formulated an SQL query that filters and isolates login attempts originating from locations outside of Mexico. The code below showcases the implementation of this SQL query:
 <p align="center">
-<img src="https://imgur.com/undefined.png" height="80%" width="80%" alt="Login Attempts Outside Of Mexico"/> </p>
+<img src="https://imgur.com/gDgj0KY.png" height="80%" width="80%" alt="Login Attempts Outside Of Mexico"/> </p>
 
 In the screenshot, you can see my query and a portion of the output. The query is designed to retrieve all login attempts from the log_in_attempts table that occurred in countries other than Mexico.
 
